@@ -1,1 +1,3 @@
-# Your code goes here!
+[1,2,3] ==[1,2,3]
+==> true
+
